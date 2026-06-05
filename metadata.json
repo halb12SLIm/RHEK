@@ -1,0 +1,6 @@
+{
+  "name": "رحيق إكسبريس",
+  "description": "المنصة الرسمية لـ رحيق إكسبريس لمستلزمات المطاعم والكافيهات - مسكنة، طريق حلب الرقة. تصفح المنتجات واطلب مخصصات مقهاك بكل سهولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
